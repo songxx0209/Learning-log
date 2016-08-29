@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>	
+	<script type="text/javascript">
+		(function(win){
+			/*面向对象编程模型*/
+			function songxx(win){
+				var _this = this;	
+
+				_this.star = function(){
+					alert('你打开了这个页面！');
+				};
+
+				/*JSONP实列*/
+				var url = "http://182.131.0.108/get_list?programtype=0&programid=2012&themeType=0&systemid=0&resolution=1&itvid=kdspb1";
+				jsonpRequset(url, {}, function(data) { //调用函数
+					if (data && data.success) { //成功返回数据,解析数据
+						pointInfoList = data.data;
+						console.log(pointInfoList);
+					} else {//数据返回失败
+						
+					}
+				});
+
+				function jsonpRequset(url, param, callback) {
+				    var script = document.createElement("script");
+				    script.type = "text/javascript";
+				    //var funName = 'jsonpCallback' + new Date().getTime();
+				    if (url.indexOf('?') > -1) {
+				        script.src = url + "&callback=" + 'funName';
+				    } else {
+				        script.src = url + "?callback=" + 'funName';
+				    }
+				    document.getElementsByTagName("head")[0].appendChild(script);
+				    /*创建script标签，在url后面加一个callback的参数，将拿到的数据放到-以参数值（funName）为函数名的函数里面；*/
+				    //创建回调函数
+				    window.funName = function(data) {
+				        callback(data);//在回调函数中随意操作拿到的数据
+				    };
+				}
+			}
+			win.sxx = new songxx(); 
+		})(window); //参数win就是window对象
+
+		sxx.star();
+	</script>
+</body>
+</html>
