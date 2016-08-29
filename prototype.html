@@ -49,6 +49,19 @@
 		dog.prototype.constructor = dog;
 		var dog1 = new dog('来福','灰色');
 		alert(dog1.species);
+
+		/*一种跟简单的实现方法*/
+		var pig = {
+			name:'kety',
+			food:'apple',
+			eat:function(){
+				alert(this.food);
+			},
+			sleep:function(){
+				alert(this.name);
+			}
+		};
+		pig.eat();
 	</script>
 </body>
 </html>
