@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script type="text/javascript">
+		(function(o){
+			alert(o);
+		})('water');
+	/*----------------------------------*/
+		/* 匿名函数的链式调用 */
+		(function(o) { 
+			alert(o); 
+			return arguments.callee; 
+		})('water')('down'); 
+	/*----------------------------------*/
+		!function(){ 
+			alert('water'); 
+		}(); 
+	/*----------------------------------*/
+		!function(){ 
+			alert('water'); 
+		}(); 
+	/*----------------------------------- */
+	</script>
+</body>
+</html>
