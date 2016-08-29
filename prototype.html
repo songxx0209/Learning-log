@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script type="text/javascript">
+		/*不是一个构造函数*/
+		function createPerson(name,age,job){
+		 	var o  = new Object();
+		 	o.name = name;
+		 	o.age  = age;
+		 	o.job  = job;
+		 	o.sayName =function(){
+		 		alert(this.name);
+		 	};
+		 	
+		 	return o;
+		}
+		/*是一个构造函数*/
+		function Cat(name,color){
+	　　　　this.name=name;
+	　　　　this.color=color;
+			
+	　　}
+		Cat.prototype.type = "猫科动物";
+		Cat.prototype.eat = '动物';
+
+		//createPerson.prototype.move = 'run';  非构造函数，不能添加prototype属性
+		var cat1 = new Cat("大毛","黄色");
+		var  person1 = createPerson("lyn",27,"Web developer");
+		//console.log(person1.move);
+		console.log(cat1.constructor == Cat);
+		console.log(cat1);
+/*------------------------------------------------------------------------------------------------------*/
+		/*是一个构造函数*/
+		function Animal(){
+	　　　　this.species = "动物";
+	　　}
+
+		function dog(name,color){
+	　　　　this.name=name;
+	　　　　this.color=color;
+			
+	　　}
+		//怎样才能使"猫"继承"动物"呢？
+		dog.prototype = new Animal();
+		dog.prototype.constructor = dog;
+		var dog1 = new dog('来福','灰色');
+		alert(dog1.species);
+	</script>
+</body>
+</html>
