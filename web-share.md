@@ -16,3 +16,5 @@ web开发所需要的一些资源与小技巧
 [使用amazon 免费云服务器科学上网](https://segmentfault.com/a/1190000003101075)
 ##浏览器方面
 [浏览器的工作原理](https://www.nihaoshijie.com.cn/index.php/archives/322)
+##webpack
+[youtube-webpack](https://www.youtube.com/watch?v=fGed9phNkto)
