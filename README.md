@@ -14,7 +14,7 @@ web开发所需要的一些资源与小技巧
 ## node.js
 [nodejs学习网站](http://cnodejs.org/getstart)   
 
-[nodejs-blog总结](https://0532.gitbooks.io/nodejs/content/path/README.html)  
+[nodejs-常用模块介绍](https://0532.gitbooks.io/nodejs/content/path/README.html)  
 
 [Expressm模块](http://www.expressjs.com.cn/)    
 
