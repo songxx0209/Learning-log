@@ -29,4 +29,6 @@ web开发所需要的一些资源与小技巧
 >chrome://inspect/    
 
 ##css3动画
-[w3school-animation](http://www.w3school.com.cn/css3/css3_animation.asp)
+[w3school-animation](http://www.w3school.com.cn/css3/css3_animation.asp)    
+##js算法之常用排序
+[排序](https://segmentfault.com/a/1190000005144961)
