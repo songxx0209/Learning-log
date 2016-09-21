@@ -27,3 +27,5 @@ web开发所需要的一些资源与小技巧
 [youtube-webpack](https://www.youtube.com/watch?v=fGed9phNkto)
 ##谷歌调试手机浏览器
 >chrome://inspect/
+##css3动画
+[w3school-animation](http://www.w3school.com.cn/css3/css3_animation.asp)
