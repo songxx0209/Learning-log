@@ -21,6 +21,8 @@ web开发所需要的一些资源与小技巧
 [Expressm模块](http://www.expressjs.com.cn/)    
 
 [Mongodb-菜鸟](http://www.runoob.com/mongodb/mongodb-databases-documents-collections.html)
+
+[cheerio API](https://cnodejs.org/topic/5203a71844e76d216a727d2e)
 ## 科学上网工具教程
 [使用amazon 免费云服务器科学上网](https://segmentfault.com/a/1190000003101075)
 ##浏览器方面
