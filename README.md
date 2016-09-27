@@ -4,6 +4,8 @@ web开发所需要的一些资源与小技巧
 [日常整理的一些网址](http://www.w3cfuns.com/notes/19125/e1c1e49a6034d18cf3dc7b6e50a3d18a.html)
 
 [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/content/html-and-css-basic/common-tag.html)
+
+[学习网站-js-nodejs](http://javascript.ruanyifeng.com/nodejs/http.html)
 ## html
 ## css
 [利用HTML和CSS实现常见的布局](https://segmentfault.com/a/1190000003931851)
