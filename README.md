@@ -39,3 +39,6 @@ web开发所需要的一些资源与小技巧
 
 ##闭包
 [阮哥闭包笔记](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
+
+## Redux
+[Redux 入门教程（一）：基本用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
