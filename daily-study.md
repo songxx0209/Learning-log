@@ -6,3 +6,7 @@ css表达式
 >formData对象    
 map对象    
 debugger?   js代码打断点的方式?(chrome)
+###2016-10-18
+[学习计划-感觉还可以](http://www.cnblogs.com/lvdabao/p/5817631.html)    
+
+>制定一个学习js基础知识的计划，年底之前把《javascript高级编程设计》看完一遍；
