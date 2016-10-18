@@ -5,8 +5,10 @@ web开发所需要的一些资源与小技巧
 
 [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/content/html-and-css-basic/common-tag.html)
 
-[学习网站-js-nodejs](http://javascript.ruanyifeng.com/nodejs/http.html)
-## html
+[学习网站-js-nodejs](http://javascript.ruanyifeng.com/nodejs/http.html)    
+
+## MDN中文版    
+[js官网](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 ## css
 [利用HTML和CSS实现常见的布局](https://segmentfault.com/a/1190000003931851)
 ## Javascript
