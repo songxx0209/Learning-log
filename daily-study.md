@@ -14,4 +14,5 @@ debugger?   js代码打断点的方式?(chrome)
 map()对象;    
 ###2016-10-20
 >React, Redux , react Native    
-webpack
+webpack    
+es2015
