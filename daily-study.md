@@ -16,3 +16,14 @@ map()对象;
 >React, Redux , react Native    
 webpack    
 es2015
+## foreach
+
+```
+Array.forEach(function(current_value, index, initial_array){
+  
+}, this_context)
+//current_value:当前项(指遍历时正在被处理那个数组项)的值
+//index : 当前项的索引(或下标)
+//initial_array : 数组本身
+//this_context : 可选参数.用来当作callback函数内this的值得对象
+```
