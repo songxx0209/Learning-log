@@ -27,3 +27,6 @@ Array.forEach(function(current_value, index, initial_array){
 //initial_array : 数组本身
 //this_context : 可选参数.用来当作callback函数内this的值得对象
 ```
+###2016-10-21
+> 知引-弹幕功能,当主题初次创建没有数据时, 会 不停的向后台发送请求;
+写代码:要对自己的代码负责,  写完后多次测试, 考虑程序可能出现的各种情况
