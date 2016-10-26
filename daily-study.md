@@ -33,4 +33,7 @@ Array.forEach(function(current_value, index, initial_array){
 动态页面事件绑定, ------事件代理; 将事件绑定到父级节点上面;    
 
 ###2016-10-24
->requestAnimationFrame
+>requestAnimationFrame    
+###2016-10-26    
+>操作DOM， 尽量缩小搜索范围
+全局 变量 和 函数内部变量的差异
