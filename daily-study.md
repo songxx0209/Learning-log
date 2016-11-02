@@ -41,4 +41,8 @@ Array.forEach(function(current_value, index, initial_array){
 全局 变量 和 函数内部变量的差异
 
 ###2016-10-28
+###2016-11-2    
+>ajax请求：排错处理
+1： 网络是否正常判断，请求是否超时判断
+2：请求是否返回数据判断，（返回的是否是有用数据的判断）
 
