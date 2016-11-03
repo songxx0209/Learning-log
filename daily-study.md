@@ -52,3 +52,5 @@ Array.forEach(function(current_value, index, initial_array){
 
 在异步操作中，不要（或不能)使用return， 可以使用回掉函数来代替
 
+今晚页面优化方面的东西，图片等
+
