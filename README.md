@@ -9,6 +9,8 @@ web开发所需要的一些资源与小技巧
 
 [学习网站-js-nodejs](http://javascript.ruanyifeng.com/nodejs/http.html)    
 
+[学习网址-阮一峰](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
+
 ## MDN中文版    
 [js官网](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 ## css
@@ -56,6 +58,8 @@ web开发所需要的一些资源与小技巧
 [React 蚂蚁组件](https://ant.design/components/modal/)
 ##前端模拟数据Mockjs    
 [github-Mock](https://github.com/nuysoft/Mock/wiki/Getting-Started)     
+[mock官网](http://mockjs.com/examples.html#Boolean)    
+
 ## http://lyn.s76.org/
 
 ##http://www.chartjs.org/
