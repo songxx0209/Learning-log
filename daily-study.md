@@ -54,3 +54,7 @@ Array.forEach(function(current_value, index, initial_array){
 
 今晚页面优化方面的东西，图片等
 
+###2016-11-18
+
+[weixin](http://www.cnblogs.com/txw1958/p/wechat-tutorial.html)
+
