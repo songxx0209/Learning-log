@@ -55,7 +55,8 @@ web开发所需要的一些资源与小技巧
 [Redux 入门教程（一）：基本用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)    
 ##  React
 [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)    
-[React 蚂蚁组件](https://ant.design/components/modal/)    
+[React 蚂蚁组件](https://ant.design/components/modal/)   
+[蚂蚁react网站](http://09x.ant.design/components/validation/)    
 [React官网入门教程](http://reactjs.cn/react/docs/getting-started-zh-CN.html)
 ##前端模拟数据Mockjs    
 [github-Mock](https://github.com/nuysoft/Mock/wiki/Getting-Started)     
