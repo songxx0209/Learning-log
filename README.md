@@ -1,5 +1,5 @@
 # web-share
-web开发所需要的一些资源与小技巧
+web开发所需要的一些资源与小技巧// 学习es6-阮哥的书,youtube
 ## 日常整理的一些网址
 [日常整理的一些网址](http://www.w3cfuns.com/notes/19125/e1c1e49a6034d18cf3dc7b6e50a3d18a.html)    [thunk函数](http://www.ruanyifeng.com/blog/2015/05/thunk.html)     [redux中文文档](http://cn.redux.js.org/docs/react-redux/api.html)
 
