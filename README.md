@@ -12,16 +12,17 @@ web开发所需要的一些资源与小技巧// 学习es6-阮哥的书,youtube
 [学习网址-阮一峰](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
 
 [阮一峰网络日志](http://www.ruanyifeng.com/blog/archives.html)    
-[没事参考学习腾讯前端网站](https://isux.tencent.com/)
-
-## MDN中文版    
-[js官网](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+[没事参考学习腾讯前端网站](https://isux.tencent.com/)    
 ## css
 [利用HTML和CSS实现常见的布局](https://segmentfault.com/a/1190000003931851)
 ## Javascript
+[js官网](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)    
+
 [JavaScript 标准参考教程（alpha）作者: 阮一峰](http://javascript.ruanyifeng.com/)
 
-[ES6/7 中文文档](http://es6.ruanyifeng.com/)
+[ES6/7 中文文档](http://es6.ruanyifeng.com/)      
+[js代码整洁-参考-不权威](https://github.com/alivebao/clean-code-js)    
+
 ## node.js
 [nodejs学习网站](http://cnodejs.org/getstart)   
 
