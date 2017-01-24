@@ -16,7 +16,8 @@ web开发所需要的一些资源与小技巧// 学习es6-阮哥的书,youtube
 ## css
 [利用HTML和CSS实现常见的布局](https://segmentfault.com/a/1190000003931851)
 ## Javascript
-[js官网](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)    
+[js官网](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)    
+[函数式编程](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)    
 
 [JavaScript 标准参考教程（alpha）作者: 阮一峰](http://javascript.ruanyifeng.com/)
 
