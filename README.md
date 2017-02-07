@@ -11,7 +11,9 @@ web开发所需要的一些资源与小技巧// 学习es6-阮哥的书,youtube
 
 [学习网站-js-nodejs](http://javascript.ruanyifeng.com/nodejs/http.html)    
 
-[学习网址-阮一峰](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
+[学习网址-阮一峰](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)    
+
+[immutable.js](https://github.com/camsong/blog)
 
 [阮一峰网络日志](http://www.ruanyifeng.com/blog/archives.html)    
 [没事参考学习腾讯前端网站](https://isux.tencent.com/)    
