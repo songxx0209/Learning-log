@@ -50,6 +50,7 @@ web开发所需要的一些资源与小技巧// 学习es6-阮哥的书,youtube
 [浏览器的工作原理](https://www.nihaoshijie.com.cn/index.php/archives/322)
 ##webpack
 [youtube-webpack](https://www.youtube.com/watch?v=fGed9phNkto)
+[gitbook-webpack](http://zhaoda.net/webpack-handbook/configuration.html)
 ##谷歌调试手机浏览器
 >chrome://inspect/    
 
