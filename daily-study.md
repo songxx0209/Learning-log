@@ -56,5 +56,7 @@ Array.forEach(function(current_value, index, initial_array){
 
 ###2016-11-18
 
-[weixin](http://www.cnblogs.com/txw1958/p/wechat-tutorial.html)
+[weixin](http://www.cnblogs.com/txw1958/p/wechat-tutorial.html)    
+###call,apply, callee,
 
+等简单的算法
