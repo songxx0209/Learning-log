@@ -60,3 +60,24 @@ Array.forEach(function(current_value, index, initial_array){
 ###call,apply, callee,
 
 等简单的算法
+
+1:事件代理, 
+
+function对象与object对象的区别, 
+
+document load 与document ready的区别
+
+事件绑定 与 普通事件的区别, 
+
+写一个获取非行间样式的函数
+
+为什么说jspon不是真正的ajax
+
+说一下js的继承， 
+
+call, apply等
+
+什么叫回调函数，说说你的理解
+
+细解 addEventListener 
+
