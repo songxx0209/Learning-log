@@ -65,6 +65,10 @@ web开发所需要的一些资源与小技巧// 学习es6-阮哥的书,youtube
 ## Redux
 [Redux 入门教程（一）：基本用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)    
 ##  React
+
+[react优化文章](http://imweb.io/topic/577512fe732b4107576230b9)
+
+
 [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)    
 [React 蚂蚁组件](https://ant.design/components/modal/)   
 [蚂蚁react网站](http://09x.ant.design/components/validation/)    
