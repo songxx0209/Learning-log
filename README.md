@@ -16,7 +16,10 @@ web开发所需要的一些资源与小技巧// 学习es6-阮哥的书,youtube
 [immutable.js](https://github.com/camsong/blog)
 
 [阮一峰网络日志](http://www.ruanyifeng.com/blog/archives.html)    
-[没事参考学习腾讯前端网站](https://isux.tencent.com/)    
+
+[知乎CDN讲解](https://www.zhihu.com/question/36514327)
+
+[没事参考学习腾讯前端网站](https://isux.tencent.com/)   
 ## css
 [利用HTML和CSS实现常见的布局](https://segmentfault.com/a/1190000003931851)
 ## Javascript
