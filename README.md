@@ -20,8 +20,10 @@ web开发所需要的一些资源与小技巧// 学习es6-阮哥的书,youtube
 [知乎CDN讲解](https://www.zhihu.com/question/36514327)
 
 [没事参考学习腾讯前端网站](https://isux.tencent.com/)   
-## css
-[利用HTML和CSS实现常见的布局](https://segmentfault.com/a/1190000003931851)
+## html+css
+[利用HTML和CSS实现常见的布局](https://segmentfault.com/a/1190000003931851)    
+[w3c字典](https://www.w3schools.com/cssref/css3_pr_flex-grow.asp)
+
 ## Javascript
 [js官网](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)    
 
