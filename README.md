@@ -73,6 +73,7 @@ web开发所需要的一些资源与小技巧// 学习es6-阮哥的书,youtube
 
 [react优化文章](http://imweb.io/topic/577512fe732b4107576230b9)
 
+[mobx](https://mobx.js.org/index.html)
 
 [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)    
 [React 蚂蚁组件](https://ant.design/components/modal/)   
