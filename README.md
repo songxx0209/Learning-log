@@ -15,7 +15,9 @@ web开发所需要的一些资源与小技巧// 学习es6-阮哥的书,youtube
 
 [immutable.js](https://github.com/camsong/blog)
 
-[阮一峰网络日志](http://www.ruanyifeng.com/blog/archives.html)    
+[阮一峰网络日志](http://www.ruanyifeng.com/blog/archives.html)   
+
+[廖雪峰官网](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 [知乎CDN讲解](https://www.zhihu.com/question/36514327)
 
