@@ -82,7 +82,12 @@ web开发所需要的一些资源与小技巧// 学习es6-阮哥的书,youtube
 [蚂蚁react网站](http://09x.ant.design/components/validation/)    
 [React官网入门教程](http://reactjs.cn/react/docs/getting-started-zh-CN.html)    
 [react书写规范](https://github.com/dwqs/react-style-guide/blob/master/readme.md)    
-##前端模拟数据Mockjs    
+
+[React, Redux and Immutable](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/)
+
+
+
+## 前端模拟数据Mockjs    
 [github-Mock](https://github.com/nuysoft/Mock/wiki/Getting-Started)     
 [mock官网](http://mockjs.com/examples.html#Boolean)    
 
