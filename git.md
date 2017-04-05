@@ -2,6 +2,8 @@
 
 个人github账号密码： songxx0209  s1...9x
 
+[阮一峰git教程](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+
 1：新建一个文件夹，执行git init； 想要克隆远端的其中一个分支？
 
 ```
