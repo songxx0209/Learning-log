@@ -100,3 +100,5 @@ web开发所需要的一些资源与小技巧// 学习es6-阮哥的书,youtube
 ##跨域问题    
 [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)    
 [杰哥跨域博客总结](http://lyn.s76.org/2016/06/09/ios8-cors-prefilght/)
+
+##[database](http://www.runoob.com/mysql/mysql-tutorial.html)
