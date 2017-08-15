@@ -1,4 +1,6 @@
 # web-share
+- [segmentfault](https://segmentfault.com/)
+- [简书]()
 web开发所需要的一些资源与小技巧// 学习es6-阮哥的书,youtube
 ## 日常整理的一些网址      
 
