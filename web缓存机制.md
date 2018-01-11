@@ -66,3 +66,20 @@ Response[·](http://caibaojian.com/http-cache.html)
 协商缓存是通过什么来判断， 使用缓存？
 
 浏览器如何命中 强制缓存和协商缓存？
+
+[讲解](http://www.cnblogs.com/wonyun/p/5524617.html)
+
+强制缓存：
+
+```
+cache-control:max-age=2592000,s-maxage=3600
+
+Status Code:200  (from memory cache)
+```
+
+
+
+```
+Status Code:200  (from disk cache)
+```
+
