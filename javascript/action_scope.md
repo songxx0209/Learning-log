@@ -1,4 +1,8 @@
-# js 作用域
+---
+title: js作用域理解
+---
+
+
 
 在[《JavaScript深入之词法作用域和动态作用域》](https://github.com/mqyqingfeng/Blog/issues/3)中讲到，函数的作用域在函数定义的时候就决定了。
 

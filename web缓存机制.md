@@ -1,6 +1,8 @@
+---
+title: 浏览器缓存机制
+---
 
 
-# web缓存机制
 
 浏览器是如何知道使用[缓存](http://caibaojian.com/t/%e7%bc%93%e5%ad%98)的，其实这都是通过http中，浏览器将最后修改时间发送请求给[web](http://caibaojian.com/c/web)服务器，web服务器收到请求后跟服务器上的文档最后修改的时间对比，如果web服务器上最新文档修改时间小于或者等于浏览器发送过来的，则发送304给浏览器，使用[缓存](http://caibaojian.com/t/%e7%bc%93%e5%ad%98)版本。
 

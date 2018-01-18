@@ -1,4 +1,11 @@
-#[讲解链接](http://justineo.github.io/singles/writing-modular-js/)
+---
+title: commonjs、AMD、CMD介绍
+---
+
+
+
+[讲解链接](http://justineo.github.io/singles/writing-modular-js/)
+
 # commonjs
 
 JS模块化，是前端工程师向全栈跨进的一大步;
