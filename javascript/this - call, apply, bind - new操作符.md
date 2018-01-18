@@ -1,4 +1,8 @@
-# this - call, apply, bind - new操作符
+---
+title: this - call, apply, bind - new操作符
+---
+
+
 
 学过bind()\apply()\call()函数的都应该知道，它接收的第一个参数即是上下文对象并将其赋给this。
 

@@ -1,4 +1,8 @@
-# Promise理解 并深入理解同步，异步
+---
+title: Promise理解 并深入理解同步，异步
+---
+
+
 
 ### Promise
 
