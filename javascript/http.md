@@ -13,5 +13,17 @@ http协议：服务端和客服端数据传输的工具
 HTTP 是基于 TCP/IP 协议的[**应用层协议**](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)。它不涉及数据包（packet）传输，主要规定了客户端和服务器之间的通信格式，默认使用80端口。
 
 - 最早版本是1991年发布的0.9版。该版本极其简单，只有一个命令`GET`。
-- ​
+
+  ​
+
+
+[http，请求头、相应头介绍](https://www.jianshu.com/p/b5993a20292a)
+
+[content-type理解](https://segmentfault.com/a/1190000003002851)
+
+#### 问题记录：
+
+对于content-type的理解，如果客户端请求时设置的ct于服务端定义的不同，会出现什么情况；
+
+
 
