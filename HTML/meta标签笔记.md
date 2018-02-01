@@ -1,5 +1,11 @@
 # meta标签
 
+**参考链接：**
+
+[微信文章](http://mp.weixin.qq.com/s/5bLOcUPx1LaJAVnuAoeImg)
+
+
+
 ## 前言
 
 meta标签的组成：meta标签共有两个属性，它们分别是http-equiv属性和name属性，不同的属性又有不同的参数值，这些不同的参数值就实现了不同的网页功能。
@@ -12,7 +18,7 @@ meta标签的组成：meta标签共有两个属性，它们分别是http-equiv�
 
 [name属性的参数](http://www.haorooms.com/post/html_meta_ds)
 
-### 其中viewport参数的讲解
+### viewport参数的讲解
 
 #### 什么是Viewport
 
@@ -34,3 +40,22 @@ meta标签的组成：meta标签共有两个属性，它们分别是http-equiv�
 >
 >user-scalable：用户是否可以手动缩放
 >
+
+
+
+### keywords（关键字）
+
+说明：keywords用来告诉搜索引擎你网页的关键字是什么。
+
+### description(网站内容描述)
+
+说明：description用来告诉搜索引擎你的网站主要内容。
+
+### robots(机器人向导)
+
+说明：robots用来告诉搜索机器人哪些页面需要索引，哪些页面不需要索引。
+
+
+
+## http-equiv属性
+

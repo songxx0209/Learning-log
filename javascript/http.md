@@ -17,13 +17,55 @@ HTTP 是基于 TCP/IP 协议的[**应用层协议**](http://www.ruanyifeng.com/b
   ​
 
 
+### 参考链接：
+
 [http，请求头、相应头介绍](https://www.jianshu.com/p/b5993a20292a)
 
 [content-type理解](https://segmentfault.com/a/1190000003002851)
 
 #### 问题记录：
 
-对于content-type的理解，如果客户端请求时设置的ct于服务端定义的不同，会出现什么情况；
+1. 对于content-type的理解，如果客户端请求时设置的ct于服务端定义的不同，会出现什么情况；
+
+2. ```
+   Failed to load https://wx.dashixiongky.com/api/v1/0/province: Request header field Access-Control-Allow-Headers is not allowed by Access-Control-Allow-Headers in preflight response.
+   ```
+
+   问题描述：
+
+   > 前端代码通过nginx配置在服务器A上；后台服务也运行在A上；
+   >
+   > 后台接口用于微信小程序，所以使用https协议；https://wx.dashixiongky.com/
+   >
+   > 前端页面访问地址：http://47.94.251.1:8088/
+   >
+   > 根据同源跨域策略，一个http、一个https；其实已经出现跨域了。
+   >
+   > **但是在这中情况下，发送GET请求成功；发送POST请求返回200，但是报错；**
+   >
+   > **最终解决方案：** 后台服务设置跨域解决；
+
+   **思考：** 是不是真的跨域了？ 为什么跨域了还能发送get请求；发送post请求返回200状态码？
+
+   **学习：** **CORS**（跨域资源共享 - Cross-origin resource sharing）的实现原理；
+
+
+
+## CORS
+
+[参考链接-阮一峰](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+
+#### 简单请求：
+
+请求方式：只能是`HEAD, GET, POST`中的一种
+
+Content-Type：只限于三个值`application/x-www-form-urlencoded`、`multipart/form-data`、`text/plain`
+
+只会发送一次请求；
+
+**如果是登录验证需要带cookie时：**
+
+服务端需要设置：**Access-Control-Allow-Credentials： true**
 
 
 
