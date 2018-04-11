@@ -14,3 +14,8 @@
    ls temp (    SHOW a.txt)
    ```
 
+
+
+
+## vi/vim 基本操作
+
