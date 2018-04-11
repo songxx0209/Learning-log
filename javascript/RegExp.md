@@ -151,3 +151,34 @@ console.log(ss);
 　　　　　+：一个到多个
 
 　　　　　？：0或一个
+
+
+
+#### 限制input输入框中的输入
+
+1. 只能输入正数，且只能保留小数点前后三位数字
+
+   ```
+   <input v-model="ruleForm.heatQuantify" oValue="" @keyup="keyUp" @blur="onBlur" />
+
+   /* js */
+
+   keyUp(e) {
+     let value = e.target.value;
+     if (value.match(/^((0|[1-9]\d{0,2})(\.?|\.\d{1,3})?)?$/)) {
+       e.target.attributes.oValue.value = value;
+     } else {
+       e.target.value = e.target.attributes.oValue.value;
+     }
+   },
+   onBlur(e) {
+     let value = e.target.value;
+     if (value[(value.length - 1)] === '.') {
+       value = value.replace(/\./, '');
+       e.target.attributes.oValue.value = value;
+       e.target.value = e.target.attributes.oValue.value;
+     }
+   },
+   ```
+
+   ​
