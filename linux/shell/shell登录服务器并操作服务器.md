@@ -1,6 +1,14 @@
-## shell登录服务器并操作服务器 - expect
+## shell expect
 
 [参考链接](https://www.jianshu.com/p/d4c1ac10204d)
+
+[参考链接一](https://blog.csdn.net/Jerome_s/article/details/77351507)
+
+### download
+
+```
+brew install expect
+```
 
 
 

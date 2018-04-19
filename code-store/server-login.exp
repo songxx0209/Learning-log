@@ -5,10 +5,11 @@ set user cdweb
 set host 114.141.173.17  
 set password cdweb@phicomm  
 
-spawn scp -r ./index.html $user@$host:/home/cdweb
+spawn cd .. 
+#spawn scp -r ./index.html $user@$host:/home/cdweb
 
-spawn ssh -p 22 $user@$host "ls;
-scp -r /home/cdweb/index.html root@192.168.42.2:/var/www/html"
+#spawn ssh -p 22 $user@$host "ls;
+#scp -r /home/cdweb/index.html root@192.168.42.2:/var/www/html"
 
 expect eof
 
