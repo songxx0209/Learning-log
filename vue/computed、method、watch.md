@@ -1,6 +1,18 @@
-## computed详解
+## computed、method、watch详解
 
 [官网参考链接](https://cn.vuejs.org/v2/guide/computed.html)
+
+#### computed vs methods
+
+1. methods
+
+   > 当vue.data中的数据，任何一个发生变更时； methods中的所有方法都会执行一遍
+
+2. computed
+
+   > **计算属性是基于它们的依赖进行缓存的**，只有vue.data中与它（computed中的方法）的数据发生改变时，才会执行computed中的方法； 理解它的缓存；
+   >
+   > 所以computed能减少不必要的计算；
 
 #### 作用\使用场景：
 
