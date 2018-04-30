@@ -113,6 +113,16 @@ git checkout -b dev
 
 
 
+### 推荐学习网站：
+
+[廖雪峰git](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+[阮一峰 - Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+
+[阮一峰 - git命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+
+
+
 ### 最后分享一张图：
 
 ![](/Users/sxx/Documents/成长/WechatIMG175.jpeg)
