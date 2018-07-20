@@ -93,3 +93,13 @@ Content-Type：只限于三个值`application/x-www-form-urlencoded`、`multipar
 
 
 
+
+
+## 从http可以延伸到理解一下网络传输方面的东西
+
+1. 短连接、长连接
+2. http、tcp、ftp等
+
+
+
+http的底层传输方式tcp，http1.0；三次握手
