@@ -53,7 +53,7 @@ vue前端部分和上一个菜品项目一样；项目中主要学习和实践�
 
 **技能：**
 
-主要使用react+redux+antd+webpack，使用过程中对react整个生态圈更加的熟悉；
+主要使用react+redux+antd+webpack+eslint，使用过程中对react整个生态圈更加的熟悉；
 
 熟练webpack的配置、熟练使用redux，理解redux的整个工作流程； 对常用的中间件有一定的理解，如：redux-thunk, redux-promise, redux-action-tools,  redux-observable, redux-logger;（这里涉及到异步的处理方案）
 
@@ -97,7 +97,7 @@ vue前端部分和上一个菜品项目一样；项目中主要学习和实践�
 
 **技能：**
 
-开发这些后台管理系统主要使用react+redux+webpack+antd，这也是最开始学习react；当时其实只是刚刚会用react，使用的脚手架也是antd提供的；开始学习使用react并学习其整个生态圈；从这些项目开始打开了react学习的大门；
+开发这些后台管理系统主要使用react+redux+webpack+antd+eslint，这也是最开始学习react；当时其实只是刚刚会用react，使用的脚手架也是antd提供的；开始学习使用react并学习其整个生态圈；从这些项目开始打开了react学习的大门；
 
 
 
@@ -122,5 +122,6 @@ vue前端部分和上一个菜品项目一样；项目中主要学习和实践�
 - 热爱技术，喜欢研究学习使用新的知识和技术；
 - 聆听别人的意见，不喜欢争论，但是坚持做正确的事情；
 - 性格开朗、随和，总是能和大家相处得很好；
+- 异地办公经验较多，良好的沟通能力；
 - 个人github账号，主要是做一些问题记录，知识点总结：<https://github.com/songxx0209>
 - 基于github搭建的个人博客：https://songxx0209.github.io/
