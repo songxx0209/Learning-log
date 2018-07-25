@@ -24,7 +24,7 @@ OPTIONS、GET、HEAD、POST、PUT、DELETE、TRACE、CONNECT
 
 
 
-**Request 部分**
+### Request 部分
 
 | Header              | 解释                                                         | 示例                                                    |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------- |
@@ -59,33 +59,28 @@ OPTIONS、GET、HEAD、POST、PUT、DELETE、TRACE、CONNECT
 | Via                 | 通知中间网关或代理服务器地址，通信协议                       | Via: 1.0 fred, 1.1 nowhere.com (Apache/1.1)             |
 | Warning             | 关于消息实体的警告信息                                       | Warn: 199 Miscellaneous warning                         |
 
-**常见头信息介绍：**
+#### 常见头信息介绍：
 
-Content-type:
+**Content-type:**
 
 1. text/html 
-
 2. text/plain 
-
 3. text/css 
-
 4. text/javascript 
 
-5. application/x-www-form-urlencoded 
+[post常见的4种提交数据的方式](https://imququ.com/post/four-ways-to-post-data-in-http.html)
+
+1. application/x-www-form-urlencoded 
 
    > 是常用的表单发包方式，普通的表单提交，或者js发包，默认都是通过这种方式
 
-6. multipart/form-data 
+2. multipart/form-data 
 
    > 用在发送文件的post包
 
-7. application/json 
+3. application/json
 
-8. application/xml
-
-
-
-
+4. application/xml
 
 
 
