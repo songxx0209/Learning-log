@@ -66,3 +66,21 @@ Vue所有的生命周期钩子自动绑定在this上下文到实例中，因此�
 
 ![](https://images2015.cnblogs.com/blog/976007/201704/976007-20170417142235134-338256909.png)
 
+
+
+## 实践：
+
+![](/Users/admin/Downloads/WechatIMG172.jpeg)
+
+
+
+组件默认是从 `顶层组件top` 到 `B` 再到 `C`；在 `C` 中有连接可以跳转到`Login`页面；对应的生命周期函数执行顺序，如下图：
+
+![](/Users/admin/Downloads/WechatIMG170.png)
+
+
+
+
+
+
+
